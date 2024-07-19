@@ -36,3 +36,7 @@ console.log(typeof stringNum);
 // NaN => Nan
 // null => null as a string
 // undefined => undefined as a string
+
+
+///<==============OPERATIONS====================>///
+
